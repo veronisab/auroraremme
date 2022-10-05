@@ -65,7 +65,8 @@ h2 {
 }
 
 h1 {
-    font-size: 40pt;
+    font-size: 40px;
+    line-height: 40px;
 }
 /* LINKS */
 
