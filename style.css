@@ -64,7 +64,7 @@ article {
      width: 75vw;
  }
 
- section .calendar:nth-child(odd) {
+.calendar:nth-child(odd) {
     background-color: #ccc;
     padding: 20px 20px 30px 20px;
 }
